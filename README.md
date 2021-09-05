@@ -7,5 +7,5 @@ At the begin, I want to do a plan.
 2. how to design the construction of the fo-kart, including the clutch、brake.
 
 ## the power -- stirling engine
-
+this part is in my another repositories named "Stirling-engine-cxy". welcome to fork and star.
 ### the power producer - electric heating
